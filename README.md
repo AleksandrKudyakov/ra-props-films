@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g9d4swvo6d0ernx6/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-props-films/branch/main)
